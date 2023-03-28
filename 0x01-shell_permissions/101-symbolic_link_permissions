@@ -1,2 +1,2 @@
 #!/bin/bash
-hello ls -s chmod vincent:staff *
+hello ln -s chmod vincent:staff*
